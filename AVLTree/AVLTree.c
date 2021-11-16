@@ -178,7 +178,7 @@ node * AVLinsert(char type,  node *n, void *elem, int *growth, CMP_ALUNO){
                             if (n->right->balancingFactor == 1)
                                 n = leftRotation(n);
                                 //Se o fb do filho direita não for 1 faço rotação direita esquerda
-                            else rightLeftRotation(n);
+                            else n = rightLeftRotation(n);
                             *growth = 0; //interrompe propagação
                             break;
                     }
