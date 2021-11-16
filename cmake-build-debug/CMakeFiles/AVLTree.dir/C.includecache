@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mikae/Desktop/IFES/Faculdade/4 periodo/TPA/AVLTree/AVLTree/AVLTree.c
+AVLTree.h
+C:/Users/mikae/Desktop/IFES/Faculdade/4 periodo/TPA/AVLTree/AVLTree/AVLTree.h
+
+C:/Users/mikae/Desktop/IFES/Faculdade/4 periodo/TPA/AVLTree/AVLTree/AVLTree.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

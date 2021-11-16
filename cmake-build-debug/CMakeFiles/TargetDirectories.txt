@@ -1,0 +1,3 @@
+C:/Users/mikae/Desktop/IFES/Faculdade/4 periodo/TPA/AVLTree/cmake-build-debug/CMakeFiles/AVLTree.dir
+C:/Users/mikae/Desktop/IFES/Faculdade/4 periodo/TPA/AVLTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mikae/Desktop/IFES/Faculdade/4 periodo/TPA/AVLTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
